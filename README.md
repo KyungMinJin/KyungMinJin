@@ -1,6 +1,8 @@
 # Hello I'm Kyungmin Jin
-- 🔭 I’m currently in my master's degree in artificial intelligence, Korea University.(Lab: Pattern Recognition and Machine Learning Lab) [PRML](http://ibi.korea.ac.kr/)
+- 🔭 I’m currently in my master's degree in artificial intelligence, Korea University. (Lab: Pattern Recognition and Machine Learning Lab) [PRML](http://ibi.korea.ac.kr/)
 
+## Research Interests
+Designing a novel framework in computer vision domain: In particular, I conducted research on pose estimation architectures based on transformers combined with convolutional neural networks.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungMinJin&count_bg=%23E060FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/KyungMinJin?style=social)
 
