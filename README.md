@@ -14,8 +14,9 @@ Designing a novel framework in computer vision domain: In particular, I conducte
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungMinJin&count_bg=%23E060FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/KyungMinJin?style=social)
 
-[![KyungMinJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungMinJin)](https://github.com/anuraghazra/github-readme-stats)
-[![KyungMinJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMinJin&show_icons=true&langs_count=8&title_color=004386&hide_border=true&icon_color=004386&layout=compact)](https://github.com/KyungMinJin)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyungminjin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KyungMinJin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungminjin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 **KyungMinJin/KyungMinJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
