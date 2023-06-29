@@ -1,6 +1,6 @@
 ## Hello I'm Kyungmin Jin
 ### Profile
-🔭 I’m currently in my master's degree in artificial intelligence, Korea University. (Lab: Pattern Recognition and Machine Learning Lab) [\[PRML\]](http://ibi.korea.ac.kr/)
+🔭 I’m currently in LG Electronics researching artificial intelligence, computer vision field. I got my master's degree in artificial intelligence, Korea University. (Lab: Pattern Recognition and Machine Learning Lab) [\[PRML\]](http://ibi.korea.ac.kr/)
 
 ### Research Interests
 Designing a novel framework in computer vision domain: In particular, I conducted research on pose estimation architectures based on transformers combined with convolutional neural networks. My research interests are summarized as follows.
